@@ -1,0 +1,2 @@
+# gitExercise
+For learning purposes
